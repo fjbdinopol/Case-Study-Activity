@@ -1,5 +1,5 @@
 # CS ELEC 01 - Computational Science: Unit 4 Case Studies
-## Contributors
+## Members
 * Felix Joseph Dinopol
 * Christian Jay Lucañas
 * John Kierve Gardonia
