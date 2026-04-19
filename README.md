@@ -86,18 +86,6 @@ Sensors record the volume of water (in liters) entering a tank every 2 minutes. 
 
 ---
 
-## Technologies Used
-* **Python 3:** Core programming language.
-* **NumPy:** Utilized for array-based mathematical operations, facilitating clean implementations of the numerical formulas without heavy loops.
-* **Matplotlib:** Used to generate side-by-side plots of the raw data and the computed derivatives for visual analysis.
+## Conclusion
 
-## How to Run the Code
-1.  Ensure Python is installed on your system.
-2.  Install the required dependencies via terminal/command prompt:
-    ```bash
-    pip install numpy matplotlib
-    ```
-3.  Execute the main computation script:
-    ```bash
-    python computational_activity.py
-    ```
+This activity successfully demonstrates the practical power of numerical methods in translating raw, discrete data into actionable insights. By implementing the Central Difference Method, Trapezoidal Rule, and Simpson's 1/3 Rule in Python, we were able to model complex, real-world behaviors—extracting critical metrics like population growth rates, thermal gradients, and accumulated fluid volumes. Ultimately, this project highlights how computational science bridges the gap between theoretical mathematics and applied engineering, providing reliable approximations and system analyses even when exact analytical functions are unavailable.
