@@ -29,7 +29,7 @@ A local government needs to analyze population changes over a 5-year period (202
 
 ### Conclusions & Analysis
 * **Acceleration:** According to our central difference model, the system is experiencing constant acceleration, with the growth rate increasing by exactly 250 people/year. However, looking at the raw census jumps, the highest raw accelerations (+300 people) occurred between 2020-2022 and 2023-2024.
-* **Growth Trend:** The population growth is **exponential**. We can confirm this because the first derivative (the growth rate) is steadily increasing over time, rather than remaining constant (which would indicate linear growth).
+* **Growth Trend:** The population growth is **quadratic**. We can confirm this because the first derivative (the growth rate) is steadily increasing over time bye 250, rather than remaining constant (which would indicate linear growth).
 * **Prediction:** Assuming the rate continues to increase by approximately 250 people/year, the 2024 growth rate would be roughly 1,700. Adding this to the 2024 population (14,800) predicts a **2025 population of ~16,500**.
 
 ![Case Study 1 Visualizations](assets/case-1_res.png)
